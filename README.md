@@ -1,4 +1,4 @@
-##Hi, I'm Gabriel Costa 👋 <br />
+## Hi, I'm Gabriel Costa 👋 <br />
 
 🌱 I’m currently learning SpringBoot! <br />
 👯 I’m looking to collaborate on backend projects <br />
