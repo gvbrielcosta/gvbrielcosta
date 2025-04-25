@@ -1,7 +1,7 @@
-## Olá! Eu sou o Gabriel Costa 👋
+## Hi, I'm Gabriel Costa 👋 <br />
 
-##🌱 I’m currently learning SpringBoot!
-##👯 I’m looking to collaborate on backend projects
-##📫 How to reach me: gvbrielcosta@gmail.com
-##😄 Pronouns: He/They
-##⚡ Fun fact: I'm a musician! 
+##🌱 I’m currently learning SpringBoot! <br />
+##👯 I’m looking to collaborate on backend projects <br />
+##📫 How to reach me: gvbrielcosta@gmail.com <br />
+##😄 Pronouns: He/They <br />
+##⚡ Fun fact: I'm a musician!  <br />
