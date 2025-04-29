@@ -3,5 +3,5 @@
 🌱 I’m currently learning SpringBoot! <br />
 👯 I’m looking to collaborate on backend projects <br />
 📫 How to reach me: gvbrielcosta@gmail.com <br />
-😄 Pronouns: He/They <br />
+😄 Pronouns: He/Him <br />
 ⚡ Fun fact: I'm a musician!  <br />
