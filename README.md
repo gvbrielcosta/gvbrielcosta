@@ -1,6 +1,6 @@
 <!-- README.md para o perfil de gvbrielcosta -->
 
-<h1 align="center">Olá! 👋 Eu sou o Gabriel Costa</h1>
+<h1 align="center">Olá! 👋
 <h3 align="center">Desenvolvedor Backend | Java & Spring Boot</h3>
 
 <p align="center">
