@@ -19,9 +19,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 **Formação**: *[Insira sua formação aqui, por exemplo: Bacharelado em Ciência da Computação pela Universidade XYZ]*
-
-- 💼 **Atualmente**: *[Insira sua ocupação atual, por exemplo: Desenvolvedor Backend na Empresa ABC]*
+- 🎓 **Formação**: Análise e Desenvolvimento de Sistemas (3º semestre)
 
 - 🌱 **Aprendizado Contínuo**: Estou aprofundando meus conhecimentos em **Spring Boot**, **Testes Automatizados** e **Arquitetura de Microsserviços**.
 
